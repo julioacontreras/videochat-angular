@@ -1,0 +1,13 @@
+section {
+    width: 400px;
+}
+
+.buttonsArea {
+    display: flex;
+    justify-content: end;
+}
+
+
+.input {
+    width: 100%;
+}
