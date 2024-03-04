@@ -1,6 +1,6 @@
 # Chat
 
-## Gettin started
+## Getting started
 
 ```bash
 # create account in https://app.videosdk.live/
