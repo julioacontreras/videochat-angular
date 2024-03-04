@@ -1,5 +1,18 @@
 # Chat
 
+## Gettin started
+
+```bash
+# create account in https://app.videosdk.live/
+# change token in ´\src\ddd\infrastructuture\chat\types\consts.ts´
+TOKEN = 'my-token'
+
+# run app
+npm run start
+
+```
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
 ## Development server
